@@ -61,3 +61,5 @@ for obj in COINS:
 # miner.add_transactions(t1)
 # miner.add_transactions(t2)
 # miner.display_transactions()
+
+#todo need to more build
